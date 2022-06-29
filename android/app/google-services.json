@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433029522522",
+    "project_id": "twitter-firebase-2c93e",
+    "storage_bucket": "twitter-firebase-2c93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433029522522:android:eafb34deb3dcb3f89be463",
+        "android_client_info": {
+          "package_name": "com.example.flutter_twitter_clone_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433029522522-q622qhvn8mu3nf2brf3108uccjaouvoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4buLQ5KrWiL4lQnEq4_5acXLj0CTrxJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433029522522-q622qhvn8mu3nf2brf3108uccjaouvoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
